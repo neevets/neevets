@@ -7,7 +7,7 @@
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=django,fastapi,nestjs,react,tailwind)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)
+![Databases](https://skillicons.dev/icons?i=postgres,mariadb,sqlite,mongodb,redis)
 
 ### Tools & Utils
 ![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,visualstudio,docker,vercel,netlify,cloudflare,postman,sentry&perline=5)
