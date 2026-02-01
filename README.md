@@ -1,7 +1,7 @@
 ## Skills
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=cpp,go,py,ts)
+![Languages](https://skillicons.dev/icons?i=godot,go,py,ts)
 
 ### Frameworks & Libraries
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=django,fastapi,nestjs,react,tailwind)
